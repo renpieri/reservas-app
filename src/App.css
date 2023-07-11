@@ -1,0 +1,23 @@
+body {
+    background: rgb(68,153,255);
+    background: linear-gradient(212deg, rgba(68,153,255,1) 0%, rgba(90,197,252,1) 49%, rgba(238,174,202,1) 100%);
+}
+
+.cita{ 
+    color: black;
+    padding: 1em;
+    border-radius: 1em;
+    background: rgb(255,255,255);
+    background: linear-gradient(212deg, rgba(255, 255, 255, 0.719) 0%, rgba(255, 255, 255, 0.486) 55%, rgba(255, 220, 235, 0.863) 100%);
+}
+
+button {
+    background-color: rgb(68,153,255);
+}
+.btn {
+    background-color: rgb(68,153,255);
+}
+
+button:hover {
+    background-color: rgb(127, 184, 253);
+}
